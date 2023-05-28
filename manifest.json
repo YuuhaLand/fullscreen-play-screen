@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Fullscreen Play Screen",
+    "description": "Gote-Supporterにあったフルスクリーンの遊ぶ画面です。\nby YukaYama0311",
+    "version": [ 1, 0, 0 ],
+    "uuid": "d263cc0d-33be-4075-847a-49091ef157a7",
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "",
+      "version": [ 1, 0, 0 ],
+      "uuid": "4fc35b27-ef01-4843-9cce-391a6db41350"
+    }
+  ]
+}
